@@ -42,6 +42,6 @@ MIT License
 
 ## Author
 
-[Yashmit178](https://github.com/yashmit178) *(update as appropriate)*
+[Yashmit178](https://github.com/yashmit178)
 
 
